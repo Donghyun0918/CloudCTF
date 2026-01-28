@@ -1,0 +1,4 @@
+name: "Public S3"
+difficulty: "easy"
+description: "Find the flag in the exposed S3 bucket."
+points: 100
